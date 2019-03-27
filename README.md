@@ -79,6 +79,10 @@ DAYS_TO_KEEP=7
 WEEKS_TO_KEEP=5
 ```
 
+## Credits
+
+Source: https://wiki.postgresql.org/wiki/Automated_Backup_on_Linux
+
 ## Donations 
 - [PayPal me](https://paypal.me/milanddata)
 - [BTC] : 3MV69DmhzCqwUnbryeHrKDQxBaM724iJC2
