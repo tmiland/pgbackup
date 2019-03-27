@@ -9,8 +9,8 @@
                   ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-[![GitHub release](https://img.shields.io/github/release/tmiland/Invidious-Updater.svg?style=for-the-badge)](https://github.com/tmiland/Invidious-Updater/releases)
-[![licence](https://img.shields.io/github/license/tmiland/Invidious-Updater.svg?style=for-the-badge)](https://github.com/tmiland/Invidious-Updater/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/tmiland/pgbackup.svg?style=for-the-badge)](https://github.com/tmiland/pgbackup/releases)
+[![licence](https://img.shields.io/github/license/tmiland/pgbackup.svg?style=for-the-badge)](https://github.com/tmiland/pgbackup/blob/master/LICENSE)
 ![Bash](https://img.shields.io/badge/Language-SH-4EAA25.svg?style=for-the-badge)
 
 ## Automated PostgreSQL Backup on Linux 
@@ -96,6 +96,6 @@ Sign up for web hosting using this link, and receive $100 in credit over 60 days
 
 ### License
 
-[![MIT License Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/220px-MIT_logo.svg.png)](https://github.com/tmiland/Invidious-Updater/blob/master/LICENSE)
+[![MIT License Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/220px-MIT_logo.svg.png)](https://github.com/tmiland/pgbackup/blob/master/LICENSE)
 
-[MIT License](https://github.com/tmiland/Invidious-Updater/blob/master/LICENSE)
+[MIT License](https://github.com/tmiland/pgbackup/blob/master/LICENSE)
