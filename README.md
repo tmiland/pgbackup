@@ -85,8 +85,7 @@ Source: https://wiki.postgresql.org/wiki/Automated_Backup_on_Linux
 
 ## Donations 
 - [PayPal me](https://paypal.me/milanddata)
-- [BTC] : 3MV69DmhzCqwUnbryeHrKDQxBaM724iJC2
-- [BCH] : qznnyvpxym7a8he2ps9m6l44s373fecfnv86h2vwq2
+- [BTC] : 33mjmoPxqfXnWNsvy8gvMZrrcG3gEa3YDM
 
 ## Web Hosting
 
